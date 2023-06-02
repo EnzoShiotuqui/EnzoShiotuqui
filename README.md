@@ -1,4 +1,4 @@
-### Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer e estudante de programação
+### Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End
 
 
 <picture>

@@ -9,9 +9,9 @@ https://enzoshiotuqui.github.io/portifolio/#header
   <img align="center" alt="enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  align="center src="https://a.imagem.app/bVZgHb.png" alt="VUE.JS" height="50" width="50" />
-   <img align="center src="https://a.imagem.app/bVZvxQ.png" alt="NODE"  height="50" width="50" />
-   <img align="center src="https://a.imagem.app/bVZ48W.png" alt="TS" height="50" width="50" border="0" />
+  <img  align="center" src="https://a.imagem.app/bVZgHb.png" alt="VUE.JS" height="50" width="50" />
+   <img align="center" src="https://a.imagem.app/bVZvxQ.png" alt="NODE"  height="50" width="50" />
+   <img align="center" src="https://a.imagem.app/bVZ48W.png" alt="TS" height="50" width="50" border="0" />
  
 </div>
 

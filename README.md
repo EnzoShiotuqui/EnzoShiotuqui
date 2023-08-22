@@ -3,7 +3,7 @@
 #https://enzoshiotuqui.github.io/portifolio/#header
 
 
-#Aqui vai algumas linguagens que eu programo :)
+<h1>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

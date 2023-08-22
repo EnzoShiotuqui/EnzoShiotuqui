@@ -8,7 +8,7 @@ https://enzoshiotuqui.github.io/portifolio/#header
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="50" width="50"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="50" width="50" />
    <img src="https://a.imagem.app/bVd8Zv.png" alt="HTML"  height="50" width="50" align="center" />
-
+   <img src="https://a.imagem.app/bVdbAT.png" alt="CSS" height="50" width="50" align="center" />
    <img  align="center" src="https://a.imagem.app/bVZgHb.png" alt="VUE.JS" height="50" width="50" />
    <img align="center" src="https://a.imagem.app/bVZvxQ.png" alt="NODE"  height="50" width="50" />
    <img align="center" src="https://a.imagem.app/bVZ48W.png" alt="TS" height="50" width="50"  />

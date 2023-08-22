@@ -1,6 +1,6 @@
-<h1>  Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
-## Se quiser saber mais de mim é só seguir o link :)
-#https://enzoshiotuqui.github.io/portifolio/#header
+<h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
+ Se quiser saber mais de mim é só seguir o link :)
+https://enzoshiotuqui.github.io/portifolio/#header
 
 
 <h1>Aqui vai algumas linguagens que eu programo :) </h3>

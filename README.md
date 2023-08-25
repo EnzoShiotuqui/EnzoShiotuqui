@@ -2,6 +2,18 @@
  Se quiser saber mais de mim é só seguir o link :)
 https://enzoshiotuqui.github.io/portifolio/#header
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true" />
+</picture>
+
 
 <h1>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>

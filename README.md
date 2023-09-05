@@ -1,10 +1,11 @@
 <h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
  Se quiser saber mais de mim é só seguir o link :)
 https://enzoshiotuqui.github.io/portifolio/#header
-<br>
 
 
-##
+
+#
+<h3>  Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/EnzoShiotuqui](https://github.com/EnzoShiotuqui)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

@@ -1,10 +1,8 @@
 <h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
- Se quiser saber mais de mim é só seguir o link :)
-https://enzoshiotuqui.github.io/portifolio/#header
-
-
-
-#
+ <div>
+   <h3>Se quiser saber mais de mim é só seguir o link :)
+https://enzoshiotuqui.github.io/portifolio/#header</h3>
+ </div>
 <h3>  Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/EnzoShiotuqui](https://github.com/EnzoShiotuqui)"> 
@@ -12,9 +10,7 @@ https://enzoshiotuqui.github.io/portifolio/#header
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoShiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-
-
-<h1>Aqui vai algumas linguagens que eu programo :) </h3>
+<h3>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="50" width="50"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="50" width="50" />

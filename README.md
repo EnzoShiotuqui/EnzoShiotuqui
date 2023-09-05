@@ -9,7 +9,7 @@ https://enzoshiotuqui.github.io/portifolio/#header</h3>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoShiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
+#
 <h3>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="50" width="50"  />

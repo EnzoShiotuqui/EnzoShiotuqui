@@ -2,6 +2,8 @@
  Se quiser saber mais de mim é só seguir o link :)
 https://enzoshiotuqui.github.io/portifolio/#header
 <br>
+
+<span>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=dark"

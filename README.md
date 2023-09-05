@@ -1,7 +1,7 @@
 <h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
  Se quiser saber mais de mim é só seguir o link :)
 https://enzoshiotuqui.github.io/portifolio/#header
-
+<br>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=dark"

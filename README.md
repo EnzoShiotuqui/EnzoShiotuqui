@@ -1,9 +1,9 @@
 <h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
  <div>
-   <h3>Se quiser saber mais de mim é só seguir o link :)
-https://enzoshiotuqui.github.io/portifolio/#header</h3>
+   <p>Se quiser saber mais de mim é só seguir o link :)
+https://enzoshiotuqui.github.io/portifolio/#header</p>
  </div>
-<h3>  Github Stats: <br></h3>
+<h2>  Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/EnzoShiotuqui](https://github.com/EnzoShiotuqui)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@ https://enzoshiotuqui.github.io/portifolio/#header</h3>
 </div>
 
 ##
-<h3>Aqui vai algumas linguagens que eu programo :) </h3>
+<h2>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="50" width="50"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="50" width="50" />
@@ -26,6 +26,7 @@ https://enzoshiotuqui.github.io/portifolio/#header</h3>
 
 ##
 
+<h2>MInhas redes :)</h2>
 <div> 
   <a href="https://www.youtube.com/channel/UCbXbu0sotfMH55gm3DbcbhA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/enzo.shiotuqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

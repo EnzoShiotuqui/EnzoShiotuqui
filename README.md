@@ -8,10 +8,12 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
  
 <h2>  Github Stats: <br></h3>
 <div>
+ <h2>  Github Stats: <br></h3>
   <a href="[https://github.com/EnzoShiotuqui](https://github.com/EnzoShiotuqui)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoShiotuqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoShiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
 
 <h2>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
@@ -25,11 +27,11 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
    <img align="center" src="https://a.imagem.app/bVZ48W.png" alt="TS" height="50" width="50"  />
 </div>
 
+
 <h2>MInhas redes :)</h2>
 <div> 
   <a href="https://www.youtube.com/channel/UCbXbu0sotfMH55gm3DbcbhA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/enzo.shiotuqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://criarmeulink.com.br/u/1691437386"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-shiotuqui-385324266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>

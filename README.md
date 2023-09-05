@@ -11,8 +11,8 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
 </div>
 
 ##
-<h2>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
+ <h2>Aqui vai algumas linguagens que eu programo :) </h3>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="50" width="50"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="50" width="50" />
    <img src="https://a.imagem.app/bVd8Zv.png" alt="HTML"  height="50" width="50" align="center" />

@@ -1,8 +1,11 @@
 <h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
- <div>
+
+ <div style="display: inline_block">
    <p>Se quiser saber mais de mim é só seguir o link :)
 https://enzoshiotuqui.github.io/portifolio/#header</p>
  </div>
+
+ 
 <h2>  Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/EnzoShiotuqui](https://github.com/EnzoShiotuqui)"> 
@@ -10,9 +13,8 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoShiotuqui&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-##
+<h2>Aqui vai algumas linguagens que eu programo :) </h3>
 <div style="display: inline_block"><br>
- <h2>Aqui vai algumas linguagens que eu programo :) </h3>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="50" width="50"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="50" width="50" />
    <img src="https://a.imagem.app/bVd8Zv.png" alt="HTML"  height="50" width="50" align="center" />
@@ -21,10 +23,7 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
    <img src="https://a.imagem.app/bNa5gN.png" alt="REACT" border="0"  align="center"  height="50" width="50" />
    <img align="center" src="https://a.imagem.app/bVZvxQ.png" alt="NODE"  height="50" width="50" />
    <img align="center" src="https://a.imagem.app/bVZ48W.png" alt="TS" height="50" width="50"  />
- 
 </div>
-
-##
 
 <h2>MInhas redes :)</h2>
 <div> 

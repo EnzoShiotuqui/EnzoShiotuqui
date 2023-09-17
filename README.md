@@ -1,4 +1,4 @@
-<h1>Eai galera, Eu sou Enzo Shiotuqui, nerd, gamer ,estudante de programação e engenheiro Front-End</h1>
+<h1>Eai galera, Eu sou Enzo Shiotuqui, Estudante de programação, engenheiro front-end e nerd nas horas vagas </h1>
  <div style="display: inline_block">
    <p>Se quiser saber mais de mim é só seguir o link :)
 https://enzoshiotuqui.github.io/portifolio/#header</p>
@@ -13,7 +13,7 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
 </div>
 
 
-<h2>Aqui vai algumas linguagens que eu programo :) </h3>
+<h2>tecnologias que uso :) </h3>
 <div style="display: inline_block"><br>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="30" width="30"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="30" width="30" />

@@ -1,6 +1,6 @@
-<h1>Eai galera, Eu sou Enzo Shiotuqui, Estudante de programação, engenheiro front-end e nerd nas horas vagas </h1>
+<h1>Hey guys, I'm Enzo Shiotuqui, a programming student, front-end engineer and nerd in his spare time </h1>
  <div style="display: inline_block">
-   <p>Se quiser saber mais de mim é só seguir o link :)
+   <p>If you want to know more about me, just follow this link :)
 https://enzoshiotuqui.github.io/portifolio/#header</p>
  </div>
 
@@ -13,7 +13,7 @@ https://enzoshiotuqui.github.io/portifolio/#header</p>
 </div>
 
 
-<h2>tecnologias que uso :) </h3>
+<h2>technologies that I use :) </h3>
 <div style="display: inline_block"><br>
    <img  align="center" src="https://a.imagem.app/bVZNVP.png" alt="Python" height="30" width="30"  />
    <img align="center" src="https://a.imagem.app/bVZpTS.png" alt="JS" height="30" width="30" />
